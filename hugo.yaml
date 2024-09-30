@@ -1,4 +1,4 @@
-baseURL: https://aoslore.nokoro.net
+baseURL: "https://aoslore.nokoro.net"
 title: "Age of Sigmar Lore"
 
 # Language settings
@@ -14,7 +14,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 # Comment out to enable taxonomies in Docsy
-# disableKinds: [taxonomy, taxonomyTerm]
+disableKinds: [taxonomy]
 
 # You can add your own taxonomies
 taxonomies:
@@ -78,6 +78,7 @@ outputs:
   section: [HTML, print, RSS]
 
 params:
+  ui.sidebar_menu_foldable: true
   taxonomy:
     # set taxonomyCloud = [] to hide taxonomy clouds
     taxonomyCloud: []
