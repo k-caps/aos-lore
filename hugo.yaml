@@ -173,11 +173,11 @@ params:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
       - name: Discord
-        url: https://invitelink-placeholder
+        url: https://discord.gg/hSAKygpuuF
         icon: fab fa-discord
-        desc: Discussion and help from your fellow users
+        desc: Get to know the community
       - name: Whatsapp Community
-        url: https://invitelink-placeholder
+        url: https://chat.whatsapp.com/Ioi2hBgDLD2JE7W0IDMK6n
         icon: fab fa-whatsapp
         desc: Join the Whatsapp Community
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
